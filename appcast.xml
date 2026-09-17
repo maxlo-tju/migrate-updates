@@ -18,5 +18,13 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/maxlo-tju/migrate-updates/releases/download/v0.1.0-build4/MaxloMigrate-0.1.0-build4.dmg" length="3629253" type="application/octet-stream" sparkle:edSignature="nGqXxE+HXNwPL97jtT36pD/J4o2zxdLPAlhlrAlaxql68kvKN4sqI5GUlhVO08CJUh8RJog/R3diOJaTnhxBAQ=="/>
         </item>
+            <item>
+            <title>Maxlo Migrate 0.1.0 (build 5)</title>
+            <pubDate>Thu, 17 Sep 2026 18:21:18 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxlo-tju/migrate-updates/releases/download/v0.1.0-build5/MaxloMigrate-0.1.0-build5.dmg" length="3683293" type="application/octet-stream" sparkle:edSignature="IFWvSYgInsaMvIwMZCId3hp7S9p7BlYpnqEYtFqq3fTmFzHH8u6ZcTde3key30Y7gJoIqq7NHZG7baQVBvC5Cg=="/>
+        </item>
     </channel>
 </rss>
