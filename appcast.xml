@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Maxlo Migrate</title>
+        <item>
+            <title>Maxlo Migrate 0.1.0 (build 3)</title>
+            <pubDate>Thu, 17 Sep 2026 12:19:43 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxlo-tju/migrate-updates/releases/download/v0.1.0-build3/MaxloMigrate-0.1.0-build3.dmg" length="3615394" type="application/octet-stream" sparkle:edSignature="3a35qJQlDi61bU/kYV6jcHFGE6KM/9ymQsAhEfkgD14Qz5QDlAWbHbLNaROLk3NOflSkOpoaLou0+72qj/okCg=="/>
+        </item>
+    </channel>
+</rss>
